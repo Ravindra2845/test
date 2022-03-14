@@ -1,4 +1,4 @@
-if(5>4):
+if 5>4:
   print("im ravi")
 else:
   print("im ra")
