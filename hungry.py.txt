@@ -1,4 +1,4 @@
 if 5>4:
-  print("im ravi")
+  print("im hungry")
 else:
-  print("im ra")
+  print("im full")
